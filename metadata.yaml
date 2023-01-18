@@ -1,0 +1,33 @@
+_repo: The-timeless-tomorrow_69652
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wellman, Manly Wade
+    birthdate: 1903
+    deathdate: 1986
+    gutenberg_agent_id: '25394'
+    url: http://www.gutenberg.org/2009/agents/25394
+    wikipedia: https://en.wikipedia.org/wiki/Manly_Wade_Wellman
+description: ''
+gutenberg_issued: '2022-12-28'
+identifiers:
+  gutenberg: '69652'
+language: en
+pgterms:marc905: 20220514072108wellman
+pgterms:marc906: '1947'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1947.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Prophecies -- Fiction'
+- !lcsh 'Psychic ability -- Fiction'
+- !lcsh 'Nostradamus, 1503-1566 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The timeless tomorrow
+url: http://www.gutenberg.org/ebooks/69652
