@@ -1,5 +1,8 @@
 _repo: The-timeless-tomorrow_69652
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69652-h/images/cover.jpg
 creator:
   author:
     agent_name: Wellman, Manly Wade
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25394
     wikipedia: https://en.wikipedia.org/wiki/Manly_Wade_Wellman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69652#The-timeless-tomorrow
 gutenberg_issued: '2022-12-28'
 identifiers:
   gutenberg: '69652'
